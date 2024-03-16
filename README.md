@@ -9,6 +9,12 @@ I'm a final-year Computer Science student from Pakistan, passionate about levera
 - 💬 Ask me about anything related to tech, coding, or Pakistan!
 - 📫 You can reach me via email at [hibairfan003@gmail.com](mailto:hibairfan003@gmail.com).
 
+## Skills
+
+- **Programming Languages:** Python, C#, React, HTML, CSS
+- **Databases:** MySQL
+
+
 <!--
 **hiba-bint-irfan/hiba-bint-irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
