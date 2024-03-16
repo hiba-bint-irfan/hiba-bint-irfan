@@ -15,9 +15,7 @@ I'm a final-year Computer Science student from Pakistan, passionate about levera
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiba-bint-irfan&show_icons=true&locale=en" alt="hiba-bint-irfan" />
-</div>
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiba-bint-irfan&show_icons=true&locale=en&layout=compact" alt="hiba-bint-irfan" />
 </div>
 
