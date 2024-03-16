@@ -1,6 +1,12 @@
 ### Hi, I am Hiba 👋
 
-Final Year Computer Science Student, looking for collaboration.
+Final Year Computer Science Student From Pakistan.
+
+## About Me
+
+- 🌱 I'm currently a final-year student in Computer Science.
+- 👯 I'm looking to collaborate on Artificial Intelligence projects.
+- 📫 How to reach me: [hibairfan003@gmail.com](mailto:hibairfan003@gmail.com)
 <!--
 **hiba-bint-irfan/hiba-bint-irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
